@@ -1,2 +1,3 @@
-# dio-completando-framework
-Desafio Framework Scrum
+# Desafio Framework Scrum
+Link de acesso ao Framework Scrum - Formação Scrum Master
+https://miro.com/welcomeonboard/RUU5M2FoamRGUGNMTDZpbEtkN2RwcHZzaGxFZHdPTkJGVHp2aXJvbUlqN2trMFZ1Ulhwd0hESkNvbzBjV3MxR3wzNDU4NzY0NTQ4NDc0NDM5NDY2fDI=?share_link_id=85546520104
